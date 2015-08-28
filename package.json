@@ -1,7 +1,7 @@
 {
-  "name": "react-es6-demo",
+  "name": "Peanut Labs",
   "version": "0.1.0",
-  "description": "Showcasing how to use React with ECMAScript 6",
+  "description": "Survey Maker",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jlowgren/react-es6-demo.git"
+    "url": "https://github.com/jbobron/peanutLabs.git"
   },
-  "author": "Joacim Löwgren",
+  "author": "Jake Obron",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jlowgren/react-es6-demo/issues"
+    "url": "https://github.com/jbobron/peanutLabs/issues"
   },
-  "homepage": "https://github.com/jlowgren/react-es6-demo",
+  "homepage": "https://github.com/jbobron/peanutLabs",
   "devDependencies": {
     "babel-core": "^4.7.16",
     "babel-loader": "^4.2.0",
